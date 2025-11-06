@@ -24,8 +24,8 @@
       <a href="violation.php" id="profile-link">Profile/Status</a>
       <button type="button" id="authButton" class="logout-btn"></button>
       
-why does it not show in changes
-//fuastino <3 gregorio :3 
+why does it not show in 
+//dill dough
 
 
     </nav>
